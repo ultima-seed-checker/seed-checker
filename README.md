@@ -1,3 +1,5 @@
+<a href="https://gifyu.com/image/bIfvZ"><img src="https://s13.gifyu.com/images/bIfvZ.png" alt="ultima" border="0" /></a>
+
 Ultima Multi-Chain Wallet Checker is a tool for checking
 cryptocurrency wallet balances across 70+ blockchain networks.
 Supports two modes: seed phrase (mnemonic) checking and
